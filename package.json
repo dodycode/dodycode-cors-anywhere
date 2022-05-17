@@ -1,0 +1,19 @@
+{
+  "name": "dodycode-cors-anywhere",
+  "version": "1.0.0",
+  "description": "CORS Anywhere Server Proxy",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "cors-anywhere"
+  ],
+  "author": "dodycode",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
